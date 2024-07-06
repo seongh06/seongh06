@@ -15,6 +15,8 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=seongh06&show_icons=true&hide_border=true)](https://github.com/seongh06)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongh06&layout=compact)](https://github.com/seongh06)
 -->
+</a>
+</a>
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&&logo=C++&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&&logo=C&logoColor=white"/></a>
