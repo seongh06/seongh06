@@ -1,6 +1,6 @@
 ### 안녕하세요 가톨릭대학교 미디어기술콘텐츠학과 김승혁입니다.👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongh06)](https://hits.seeyoufarm.com)
-<!--
+
 **seongh06/seongh06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <!--
 [![github stats](https://github-readme-stats.vercel.app/api?username=seongh06&show_icons=true&hide_border=true)](https://github.com/seongh06)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongh06&layout=compact)](https://github.com/seongh06)
