@@ -33,6 +33,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=seongh06&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongh06&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=seongh06&show_icons=true&hide_border=true)](https://github.com/seongh06)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seongh06&layout=compact)](https://github.com/seongh06)
