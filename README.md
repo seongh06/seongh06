@@ -6,7 +6,7 @@
 
 - 🔭 **My school:** 가톨릭대학교 / 미디어기술콘텐츠학과
 - 🌱 **My birth:** 2004.06.11
-- 👯 **Instagram:** [@sseungh_o](https://www.instagram.com/sseungh_o)
+- 👯 **Instagram:** [@kimshoflife](https://www.instagram.com/kimshoflife)
 - 🤔 **My Email:** [seongh06@naver.com](mailto:seongh06@naver.com)
 - 💬 **My MBTI:** ENFP
 - 📫 **My NOTION:** [My Notion](https://sphenoid-mozzarella-660.notion.site/fb90d99b0a9546beaf23ab7b9d30acf7)
