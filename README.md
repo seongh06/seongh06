@@ -1,14 +1,7 @@
-### 안녕하세요! 가톨릭대학교 미디어기술콘텐츠학과 김승혁입니다. 👋
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseongh06)](https://hits.seeyoufarm.com)
-
----
-
-- 🔭 **My school:** 가톨릭대학교 / 미디어기술콘텐츠학과
+- 🔭 **My school:** Media Technology Contents Department / Catholic University of KOREA
 - 🌱 **My birth:** 2004.06.11
 - 👯 **Instagram:** [@kimshoflife](https://www.instagram.com/kimshoflife)
 - 🤔 **My Email:** [seongh06@naver.com](mailto:seongh06@naver.com)
-- 💬 **My MBTI:** ENFP
 - 📫 **My NOTION:** [My Notion](https://sphenoid-mozzarella-660.notion.site/fb90d99b0a9546beaf23ab7b9d30acf7)
 
 ---
