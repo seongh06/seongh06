@@ -1,5 +1,4 @@
 - 🔭 **My school:** Media Technology Contents Department / Catholic University of KOREA
-- 🌱 **My birth:** 2004.06.11
 - 👯 **Instagram:** [@kimshoflife](https://www.instagram.com/kimshoflife)
 - 🤔 **My Email:** [seongh06@naver.com](mailto:seongh06@naver.com)
 - 📫 **My NOTION:** [My Notion](https://sphenoid-mozzarella-660.notion.site/fb90d99b0a9546beaf23ab7b9d30acf7)
